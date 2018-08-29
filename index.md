@@ -1,9 +1,9 @@
 ## Kelly Kral's first CS193 Lab
 
 My favorite things about CS193:
--The chill environment
--The student teachers
--The workload
+- The chill environment
+- The student teachers
+- The workload
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files. <--Editor located here
 
